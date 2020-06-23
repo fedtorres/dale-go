@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/fedtorres/golang-microservices/mvc/app"
+	"github.com/fedtorres/dale-go/src/api/app"
 )
 
 func main() {
